@@ -22,7 +22,7 @@ Solid Rock Security Labs focus on Web3 project attack and defense, Web3 project 
 ## Audit Contests
 
 * DappLink bridge (final)
-* fishcake (on going)
+* fishcake (final)
 
 ## Active Bug Bounty
 

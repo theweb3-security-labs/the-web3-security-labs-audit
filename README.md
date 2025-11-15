@@ -4,7 +4,7 @@ parent:
 -->
 
 <div align="center">
-  <h1> Solid Rock Security Labs </h1>
+  <h1> The Web3 Security Labs </h1>
 </div>
 
 <div align="center">

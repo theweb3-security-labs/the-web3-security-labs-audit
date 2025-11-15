@@ -31,4 +31,4 @@ Solid Rock Security Labs focus on Web3 project attack and defense, Web3 project 
 
 ## How to contact us
 
-* https://x.com/0xsolidrock
+* [https://x.com/0xsolidrock](https://x.com/0xTheWeb3Labs)
